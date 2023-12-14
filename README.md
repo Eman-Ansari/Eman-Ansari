@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eman Ansari</h1>
 
 <div align="center">
-  <p style="font-size: 1.5em; animation: fadeInUp 1s ease-in-out;">A Passionate Mobile Application Developer</p>
+  <p style="font-size: 2.5em; animation: fadeInUp 1s ease-in-out;">A Passionate Mobile Application Developer</p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&center=true&random=false&width=435&lines=Flutter+Developer+%7C+Android+Developer;Mobile+Application+Developer" alt="Typing SVG" /></a>
 </div>
 
