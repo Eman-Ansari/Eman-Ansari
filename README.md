@@ -27,6 +27,9 @@
     <a href="https://www.youtube.com/channel/UC3_MBSoQiQKjGvllHeqxl-w" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC3_MBSoQiQKjGvllHeqxl-w" height="30" width="40" />
     </a>
+     <a href="https://www.fiverr.com/emanansari1?public_mode=true" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/fiverr.svg" alt="https://www.fiverr.com/emanansari1?public_mode=true" height="30" width="40" />
+    </a>
   </p>
 </div>
 
